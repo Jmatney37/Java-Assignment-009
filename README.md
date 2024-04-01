@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+ANSWER Why not? HERE: The answers started to become wrong around line 11 due to integer overflow.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +26,7 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+ANSWER #4 HERE: It is correct up to 30. Using BigInteger I was able to go to 100 without an integer overflow. 
 ```
 
 ## Submission
